@@ -59,4 +59,4 @@ If you have any questions about the repo contact me on GitHub at (https://github
 or reach me directly at <kulpreet.s18@gmail.com>.
 
 
-!(09-ReadME-Generator/Compressed09.gif)
+
